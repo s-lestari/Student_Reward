@@ -11,3 +11,8 @@ This is a mobile application to track and reward student participation in class.
 Built using Android (Java) and MySQL database with PHP API backend.
 
 🧑‍💻 This project was developed by Sanya Lestari and Syifa Fauziah.
+
+My Contribution:
+• Frontend
+• Database Schema
+• Backend
