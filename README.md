@@ -2,6 +2,7 @@
 This is a mobile application to track and reward student participation in class. Lecturers can assign points, and students can view their point status and unlock rewards based on their activity level.
 
 🔑 Features:
+
 👩‍🏫 Lecturer: View student list, update points
 
 🧑‍🎓 Student: View current points and rewards
